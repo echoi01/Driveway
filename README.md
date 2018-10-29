@@ -1,9 +1,9 @@
 # Driveway
-Hello iterators.
 
-Welcome to Driveway! The airbnb for driveways! This app allows people to rent out their
-driveways to other people for a fee. We imagined this app would be popular in busy cities
-or near popular events where traffic is congested and parking can be hard to find.
+This app allows people to rent out their driveways to other people for a fee. 
+
+This app would be popular in busy cities or near popular events 
+where traffic is congested and parking can be hard to find.
 
 To build your webpack: 
 ```npm run webpack```
@@ -25,5 +25,3 @@ The clientENV is already listed in the .gitignore.
 
 Without the api key you will only have a developer version of google maps. Api keys are free
 when you sign up.
-
-Eh that's all I can think of atm. 
